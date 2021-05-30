@@ -1,0 +1,5 @@
+bastin_ami: ami-077e31c4939f6a2f3
+
+region: us-east-2
+
+MYIP: 192.168.43.100/32
